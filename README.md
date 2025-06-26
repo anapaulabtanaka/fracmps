@@ -1,2 +1,2 @@
 # fracmps
-This is a repository contains data to simulate fractures using mps.
+This is a repository contains data and results from fracture simulaton using mps.
